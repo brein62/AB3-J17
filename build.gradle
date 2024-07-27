@@ -10,8 +10,6 @@ plugins {
 
 mainClassName = 'seedu.address.Main'
 
-// note: ensure that you are running Java 17 JDK or above! Else, there will be
-// a compile-time error due to incompatible Java version.
 sourceCompatibility = JavaVersion.VERSION_17
 targetCompatibility = JavaVersion.VERSION_17
 
